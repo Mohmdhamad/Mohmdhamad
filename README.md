@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Flutter developer</h3>
 
 - 🌱 I’m currently learning **Flutter**
-- 
 - 📫 How to reach me **mahamedhammaad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
