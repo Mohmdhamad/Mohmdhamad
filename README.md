@@ -2,15 +2,13 @@
 <h3 align="center">A passionate Flutter developer</h3>
 
 - 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mohmdhamad?tab=repositories](https://github.com/Mohmdhamad?tab=repositories)
-
-- 📫 How to reach me **mo7maaa7maaa@gmail.com**
+- 
+- 📫 How to reach me **mahamedhammaad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mo7md7maad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo7md7maad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mo7maaa7maaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mo7maaa7maaa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahammedhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mo7maaa7maaa" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed hamad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hamad" height="30" width="40" /></a>
 </p>
 
